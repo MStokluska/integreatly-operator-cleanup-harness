@@ -1,0 +1,5 @@
+# Ignore the cleanup binary
+integreatly-operator-cleanup-harness.test
+
+# Ignore ide settings
+.idea
